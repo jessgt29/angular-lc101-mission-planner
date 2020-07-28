@@ -1,4 +1,11 @@
+.header {
+    font-family: cursive;
+    font-size: larger;
+    color: #f88417;
+}
 .box {
     display: flex;
     padding: 10px;
+    background-color: bisque;
+    text-align: justify;
  }
